@@ -1,6 +1,6 @@
 class Homepage
 
-
+#Create variable with setter and getter 
  	attr_accessor :cart_Icon
 
 # initialize variables

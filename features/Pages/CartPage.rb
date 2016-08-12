@@ -1,5 +1,6 @@
 class CartPage
 
+#Create variable with setter and getter 
 	attr_accessor :subTotal_Label
 	attr_accessor :cartTitle
 	attr_accessor :cartPrice
